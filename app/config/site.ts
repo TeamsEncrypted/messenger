@@ -1,8 +1,8 @@
 import { Metadata } from "next";
 
 export const siteConfig: Metadata = {
-  title: "Messenger Clone",
-  description: "A Real-Time Messenger Clone using Next.js 14.",
+  title: "Teams Encrypted",
+  description: "A real-time messenger with end-to-end encryption",
   keywords: [
     "reactjs",
     "nextjs",
@@ -40,7 +40,7 @@ export const siteConfig: Metadata = {
     "css",
   ] as Array<string>,
   authors: {
-    name: "Sanidhya Kumar Verma",
-    url: "https://github.com/sanidhyy",
+    name: "Dragon Boss",
+    url: "#",
   },
 } as const;
